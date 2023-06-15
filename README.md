@@ -20,5 +20,5 @@ This is an automation testing for the <a href="https://buggy.justtestit.org/">Bu
 6. Run All Tests
 
 ## Documents
-<a href="https://github.com/robse7en/buggy-site/wiki/Bug-report-for-Buggy-Car-Rating">Bug report</a>
-<a href="https://github.com/robse7en/buggy-site/wiki/Test-Approach">Test approach</a>
+- <a href="https://github.com/robse7en/buggy-site/wiki/Bug-report-for-Buggy-Car-Rating">Bug report</a>
+- <a href="https://github.com/robse7en/buggy-site/wiki/Test-Approach">Test approach</a>
